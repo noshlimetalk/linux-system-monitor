@@ -10,7 +10,18 @@ This project displays real time information about system resource usage. The pro
 -Runs entirely in the terminal 
 -Lightweight and fast
 
-#Usage
+# Usage
 Make Executable 
 chmod +x monitor.sh
 ./monitor.sh
+
+# Prerequisites
+-Linux (Ubuntu, Red Hat, etc)
+-Bash Shell
+
+# Installation
+Clone the Repository
+'''bash
+git clone https://github.com/noshlimetalk/linux-system-monitor.git
+cd linux-system-monitor
+
